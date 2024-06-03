@@ -28,3 +28,7 @@ Available services:
 
 1. Laravel 11
 2. PostgreSQL
+
+## API Spesifications
+
+[Collection](https://dark-equinox-95506.postman.co/workspace/My-Workspace~81492c58-5820-4c68-87b6-50877ffdcc4e/collection/18247122-e475e70f-a9b1-4376-a8ab-189181321a15?action=share&creator=18247122&active-environment=18247122-8e47c6ea-433b-49cb-a4b2-48cae763adb1)
